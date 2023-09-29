@@ -1,6 +1,6 @@
 # MIT8107: Advanced Database Systems Organization
 
-| **Attribute**         | Value                                                        |
+| **Key**         | Value                                                        |
 |-------------------------|-----------------------------------------------|
 | **Course Code**       | MIT8107                                                      |
 | **Course Name**       | Advanced Database Systems                                     |
