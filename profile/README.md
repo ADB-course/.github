@@ -7,10 +7,10 @@ A GitHub organization used to facilitate and manage collaboration amongst studen
 | **Course Code**                                                       | BBT3104 and MIT8107                                                                                                                                                                            |
 | **Course Name**                                                       | Advanced Database Systems _(same name for both courses)_                                                                                                                                                           |
 | **URL**                                                               | <https://elearning.strathmore.edu/course/view.php?id=3932> and <https://elearning.strathmore.edu/course/view.php?id=3277> respectively                                                                                                                         |
-| **Current Semester Duration**                                                 | _To be announced_                                                                                                                       |
+| **Current Semester Duration**                                                 | 19<sup>th</sup> August - 25<sup>th</sup> November 2024                                                                                                                       |
 | **Lecturer**                                                          | Allan Omondi                                                                                                                                                                       |
 | **Contact**                                                           | aomondi@strathmore.edu                                                                                                                                                      |
 
 ## Past Semesters
 
-* 31<sup>st</sup> August - 1<sup>st</sup> December 2023
+* MIT8107: 31<sup>st</sup> August - 1<sup>st</sup> December 2023
