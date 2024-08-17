@@ -1,11 +1,16 @@
-# MIT8107: Advanced Database Systems Organization
+# GitHub Organization for the BBT3104 and MIT8107 Advanced Database Systems Course
 
-| **Key**         | Value                                                        |
-|-------------------------|-----------------------------------------------|
-| **Course Code**       | MIT8107                                                      |
-| **Course Name**       | Advanced Database Systems                                     |
-| **URL**               | [https://elearning.strathmore.edu/course/view.php?id=3277](https://elearning.strathmore.edu/course/view.php?id=3277) |
-| **Semester Duration** | 31<sup>st</sup> August 2023 to 1<sup>st</sup> December 2023 |
-| **Lecturer**          | Allan Omondi                                                 |
-| **Contact**           | aomondi_at_strathmore_dot_edu                                  |
+A GitHub organization used to facilitate and manage collaboration amongst students taking the BBT3104 and MIT8107 Advanced Database Systems courses.
 
+| **Key**                                                               | Value                                                                                                                                                                              |
+|---------------|---------------------------------------------------------|
+| **Course Code**                                                       | BBT3104 and MIT8107                                                                                                                                                                            |
+| **Course Name**                                                       | Advanced Database Systems _(same name for both courses)_                                                                                                                                                           |
+| **URL**                                                               | <https://elearning.strathmore.edu/course/view.php?id=3932> and <https://elearning.strathmore.edu/course/view.php?id=3277> respectively                                                                                                                         |
+| **Current Semester Duration**                                                 | _To be announced_                                                                                                                       |
+| **Lecturer**                                                          | Allan Omondi                                                                                                                                                                       |
+| **Contact**                                                           | aomondi@strathmore.edu                                                                                                                                                      |
+
+## Past Semesters
+
+* 31<sup>st</sup> August - 1<sup>st</sup> December 2023
